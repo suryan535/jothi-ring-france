@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jothi-ring-france/static/css/main.c8e21c2e.css",
+    "main.js": "/jothi-ring-france/static/js/main.cce6f77a.js",
+    "static/js/787.dc3a5b66.chunk.js": "/jothi-ring-france/static/js/787.dc3a5b66.chunk.js",
+    "static/media/shoe2.png": "/jothi-ring-france/static/media/shoe2.ef5414e508ed55925e20.png",
+    "static/media/tonikroos.jpg": "/jothi-ring-france/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
+    "static/media/grasspic.jpg": "/jothi-ring-france/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/shoe.jpg": "/jothi-ring-france/static/media/shoe.9a7bc9c8f2cbd547b24e.jpg",
+    "static/media/christiano.jpg": "/jothi-ring-france/static/media/christiano.6c59ff44f69c755a3933.jpg",
+    "static/media/error.png": "/jothi-ring-france/static/media/error.514e55e3c69c478c9398.png",
+    "static/media/zidane.jpg": "/jothi-ring-france/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/cancel.png": "/jothi-ring-france/static/media/cancel.5d5034e9c12f89d03f01.png",
+    "static/media/contact.png": "/jothi-ring-france/static/media/contact.192a7e7469a550e9f120.png",
+    "static/media/ikercasillas.jpg": "/jothi-ring-france/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
+    "index.html": "/jothi-ring-france/index.html",
+    "main.c8e21c2e.css.map": "/jothi-ring-france/static/css/main.c8e21c2e.css.map",
+    "main.cce6f77a.js.map": "/jothi-ring-france/static/js/main.cce6f77a.js.map",
+    "787.dc3a5b66.chunk.js.map": "/jothi-ring-france/static/js/787.dc3a5b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8e21c2e.css",
+    "static/js/main.cce6f77a.js"
+  ]
+}
