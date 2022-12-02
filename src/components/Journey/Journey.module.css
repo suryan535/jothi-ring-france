@@ -1,0 +1,28 @@
+.outer
+{
+    color: white;
+    margin:80px;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0.2528361686471463) 0%, rgba(0,0,0,0.5301470930168943) 27%, rgba(0,0,0,1) 100%),url('../../assets/grasspic.jpg');
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 6rem;
+    padding:100px;
+}
+
+.component
+{
+    text-align: left;
+    padding:20px;
+}
+
+.componentHeading
+{
+    font-size: 2rem;
+}
+.componentDescription
+{
+    font-size: 1rem;
+}

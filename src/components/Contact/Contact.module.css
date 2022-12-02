@@ -1,0 +1,29 @@
+.outer
+{
+    justify-content: space-evenly;
+    display:flex;
+    margin-top:5%;
+    align-items: center;
+}
+
+.outer2
+{
+    padding:50px;
+    width:fit-content;
+    box-shadow: 0px 0px 10px 2px #B9B3B1;
+}
+
+.inner
+{
+    text-align: left;
+    padding:10px;
+}
+.textUpper
+{
+    font-size: 1.5rem;
+}
+
+.textLower
+{
+    font-size:0.85rem;
+}

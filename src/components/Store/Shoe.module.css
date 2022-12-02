@@ -1,0 +1,22 @@
+.outer
+{
+    display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.left
+{
+    display:grid;
+    padding:10px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;    margin:10px;
+    grid-template-columns: 3fr 1fr;
+}
+
+.description
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    font-size: 1.5rem;
+}

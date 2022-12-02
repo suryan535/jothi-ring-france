@@ -1,0 +1,47 @@
+.filter
+{
+    text-align: left;
+    padding:10px;
+    margin:10px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+.filterContainer
+{
+    padding:25px;
+}
+.filterContentInner
+{
+    padding:6px;
+}
+.filterHeading
+{
+    font-size:1.4rem;
+}
+.filterContent
+{
+    font-size:1rem;
+}
+
+.shoes
+{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    margin:10px;
+}
+
+.shoesLower
+{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.left
+{
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.filterContent
+{
+    display: flex;
+    flex-direction: column;
+}

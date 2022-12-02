@@ -1,0 +1,25 @@
+.outer
+{
+   font-size: 1.3rem;
+   overflow:auto;
+   display:flex;
+   margin-top: 20px;
+   justify-content: center;
+   width:100%;
+}
+
+.inner
+{
+    float:left;
+    padding:10px;
+}
+
+.inner1{
+    overflow:auto;
+    justify-content: center;
+}
+
+.inner2
+{
+    float:left;
+}

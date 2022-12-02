@@ -1,0 +1,25 @@
+
+.outer
+{
+    margin-top:5%;
+}
+
+.upper
+{
+    font-size:1.5rem;
+    margin-top:40px;
+}
+
+.lower
+{
+    font-size:1.5rem;
+    margin-top:40px;
+}
+
+.middle
+{
+    overflow:auto;
+    justify-content: space-evenly;
+    display:flex;
+    margin-top:40px;
+}

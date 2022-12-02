@@ -1,0 +1,21 @@
+.outer
+{
+    display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.cartItems
+{
+  display:flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.right
+{
+  display:flex;
+  padding:10px;
+  margin:10px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+  flex-direction: column;
+}
